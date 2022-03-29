@@ -1,25 +1,25 @@
 {
   "name": "fernfolio-11ty-template",
   "version": "1.0.0",
-  "description": "The super simple portfolio template built with Eleventy and Netlify CMS",
+  "description": "The super simple personal website + blog",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
+    "url": "https://github.com/nick-martins/nickmar-netlify-website"
   },
   "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
+    "name": "Nick Martins",
+    "email": "nickmartins202@gmail.com",
+    "url": "https://nickmartins.netlify.app/"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
   },
-  "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
+  "homepage": "https://github.com/nick-martins/nickmar-netlify-website",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "luxon": "^1.25.0",
