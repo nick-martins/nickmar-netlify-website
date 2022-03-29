@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87a8bbce-6876-4463-ade4-96311a5e4d13/deploy-status)](https://app.netlify.com/sites/onebyteblog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/482ff063-3896-4f1f-8a16-764b6f99c964/deploy-status)](https://app.netlify.com/sites/nickmartins/deploys)
 
 # Nick Martins Project Website
 The super simple website was built with [Eleventy](https://www.11ty.io/) and [Netlify CMS](https://www.netlifycms.org/)
