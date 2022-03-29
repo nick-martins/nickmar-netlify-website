@@ -1,35 +1,61 @@
 ---
 title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+subtitle: Here is my past work experiences. I enjoying doing personal projects
+  as well, so check out the projects tab to see more.
+metaDescription: Resume Page
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
   order: 3
   key: Work
 ---
+
+### 👇 Downloads (Google Drive):
+
+**My Curriculum Vitae (CV)**
+
+**[My Resume](https://drive.google.com/file/d/1fqL_WhRHL757PW7l-aszR25xdwA4PcSZ/view?usp=sharing)**
+
+**[Other Useful Documents](https://drive.google.com/drive/folders/1qfhgXp2dtIAtwvRC5I6fSbPBsdwvuyKh?usp=sharing)**
+
+- - -
+
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Toyota Motor Manufacturing Canada
 
-**Senior Software Engineer** *(2019 - Current)*
+**Summer Student** *(May 2021- September 2021)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Assist with troubleshooting faults
+* Unload quality parts out of the press machine and
+  organize them into pallets
+* Maintain quality standards by performing quality checks
 
-#### Microsoft
+#### Food Basics
 
-**Software Engineer** *(2014 - 2019)*
+**Cashier** *(April 2019- September 2020)*
 
-* Maintained legacy Internet Explorer for 5 long years
+* Answer customers' questions, and provide information
+  on procedures or policies.
+* Managing transactions with customers using cash,
+  debit, or credit cards.
+* Maintain clean and orderly checkout areas.
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### Carleton University
 
-**PhD Astronomy** *(2014 - 2015)*
+**Bachelor of Information Technology, Network Technology** *(2021- Current)*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* Attends many extracurricular activities, such as google developer club and hockey.
+* Joint program with Algonquin college
+* Achieved 11.0 GPA
+
+#### Algonquin College
+
+**Bachelor of Information Technology, Network Technology** *(2021- Current)*
+
+* Attends countless hands on labs and tutorials working with industry equipment
+* Gained knowledge of not only networking but many other IT Operations

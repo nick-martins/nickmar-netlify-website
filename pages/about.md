@@ -2,22 +2,20 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+date: 2022-03-29T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Who am I?
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+As you know by now, my name is Nick Martins. I am a student at Carleton University and studying a Bachelor of Information Technology. I have always been an extroverted person and love to get myself out there.  I am very goal-driven and like to solve challenges. Hopefully, some of my [projects](https://nickmaritns.netlify.app/projects/) or [my blog](https://onebyteblog.netlify.app/) gave you some insight into who I am.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+Other than obviously loving technology and especially information technology, I also really love playing video games, watching movies, hanging out with friends, and anime.  I also love traveling, as you can probably tell by some of the images on this website. Having a great work-life balance is important not only for myself but for my jobs as well. I think that if someone is happy with themselves outside of work then they can bring that positivity to their work. That is exactly what I strive for when it comes to work and my life. 
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+<img src="/static/img/img_2272.jpg" width="500" height="150" class="center">
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+I wanted to create this website (with help from a template of course) so I could practice HTML and CSS to see how web pages are built. I put this website on a [GitHub repo](https://github.com/nick-martins/nick-martins-netlify), so anyone can see what is going on behind the scenes. This was a great learning experience and it is amazing that this bit of practice is now being put out there for people to see. If you want to learn more about me then feel free to give me a call or send me a message.
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
-
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+<img src="/static/img/img_9822.jpg" width="500" height="150" class="center">
