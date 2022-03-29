@@ -3,9 +3,7 @@ title: Welcome to my blog!
 date: 2022-03-29T18:33:35.607Z
 author: Nick Martins
 summary: Just a quick welcome and thank you!
-tags:
-  - environment
-  - politics
+tags: []
 ---
 Hello and welcome to the Tech Abyss Blog. I'm [Nickolas Martins](https://nickmartins.netlify.app/about/), but you can call me Nick. This is the first post on my new blog and just wanted to send you a quick welcome and thanks for coming!
 
