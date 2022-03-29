@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to the Tech Abyss
 date: 2022-03-29T18:33:35.607Z
 author: Nick Martins
 summary: Just a quick welcome and thank you!
