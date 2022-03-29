@@ -7,8 +7,6 @@ tags: []
 ---
 Hello and welcome to the Tech Abyss Blog. I'm [Nickolas Martins](https://nickmartins.netlify.app/about/), but you can call me Nick. This is the first post on my new blog and just wanted to send you a quick welcome and thanks for coming!
 
-![]()
-
 ### What's going on with this blog?
 
 Well, I just wanted somewhere to put my thoughts and document my projects amongst other posts. I wanted to make this blog to also practice my writing skills since I know how vital it can be for my future, but I always neglect to do it so this gives me more purpose. 
