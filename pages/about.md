@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 #### Who am I?
 
-As you know by now, my name is Nick Martins. I am a student at Carleton University and studying a Bachelor of Information Technology. I have always been an extroverted person and love to get myself out there.  I am very goal-driven and like to solve challenges. Hopefully, some of my [projects](https://nickmaritns.netlify.app/projects/) or [my blog](https://onebyteblog.netlify.app/) gave you some insight into who I am.
+As you know by now, my name is Nick Martins. I am a student at Carleton University and studying a Bachelor of Information Technology. I have always been an extroverted person and love to get myself out there.  I am very goal-driven and like to solve challenges. Hopefully, some of my [projects](https://nickmartins.netlify.app/projects/) or [my blog](https://nickmartins.netlify.app/blog/) gave you some insight into who I am.
 
 Other than obviously loving technology and especially information technology, I also really love playing video games, watching movies, hanging out with friends, and anime.  I also love traveling, as you can probably tell by some of the images on this website. Having a great work-life balance is important not only for myself but for my jobs as well. I think that if someone is happy with themselves outside of work then they can bring that positivity to their work. That is exactly what I strive for when it comes to work and my life. 
 
