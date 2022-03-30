@@ -6,7 +6,7 @@
   /* Background Colors */
   --color-bg: #242424;
   --color-bg-secondary: #404040;
-  --color-bg-accent: #5085ba;
+  --color-bg-accent: transparent;
 
   /* Text and Border Colors */
   --color-text: #e0e0e0;
