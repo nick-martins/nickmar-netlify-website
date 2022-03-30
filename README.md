@@ -18,7 +18,3 @@ The super simple website was built with [Eleventy](https://www.11ty.io/) and [Ne
 
 ## 🤔 Did you make all this?
 No! I used the template ["Fernfolio"](https://github.com/TylerMRoderick/fernfolio-11ty-template). Credit for the base goes to him, thank you.
-
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of deploying a beautiful portfolio and blog. Launch your site in minutes!
-
-Based on the [eleventy-netlify-boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate), but modified to perfectly fit the needs of a modern technical porfolio.

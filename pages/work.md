@@ -9,14 +9,9 @@ eleventyNavigation:
   order: 3
   key: Work
 ---
-
 ### 👇 Downloads (Google Drive):
 
-**My Curriculum Vitae (CV)**
-
 **[My Resume](https://drive.google.com/file/d/1fqL_WhRHL757PW7l-aszR25xdwA4PcSZ/view?usp=sharing)**
-
-**[Other Useful Documents](https://drive.google.com/drive/folders/1qfhgXp2dtIAtwvRC5I6fSbPBsdwvuyKh?usp=sharing)**
 
 - - -
 
