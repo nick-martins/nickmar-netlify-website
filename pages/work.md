@@ -9,13 +9,7 @@ eleventyNavigation:
   order: 3
   key: Work
 ---
-### 👇 Downloads (Google Drive):
-
-**[My Resume](https://drive.google.com/file/d/1fqL_WhRHL757PW7l-aszR25xdwA4PcSZ/view?usp=sharing)**
-
-- - -
-
-### 👩‍💻 Experience:
+### 👩‍💻Work Experience:
 
 #### Toyota Motor Manufacturing Canada
 
@@ -40,17 +34,12 @@ eleventyNavigation:
 
 ### 📚 Education:
 
-#### Carleton University
+#### Carleton University & Algonquin College
 
 **Bachelor of Information Technology, Network Technology** *(2021- Current)*
 
 * Attends many extracurricular activities, such as google developer club and hockey.
 * Joint program with Algonquin college
-* Achieved 11.0 GPA
-
-#### Algonquin College
-
-**Bachelor of Information Technology, Network Technology** *(2021- Current)*
-
 * Attends countless hands on labs and tutorials working with industry equipment
 * Gained knowledge of not only networking but many other IT Operations
+* Achieved 11.0 GPA
