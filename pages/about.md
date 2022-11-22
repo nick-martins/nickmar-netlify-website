@@ -21,3 +21,9 @@ Having a great work-life balance is important not only for myself but for every 
 I wanted to create this website (with help from a template of course) so I could practice HTML and CSS to see how web pages are built. I put this website on a [GitHub repo](https://github.com/nick-martins/nickmar-netlify-website), so anyone can see what is going on behind the scenes. This was a great learning experience and it is amazing that this bit of practice is now being put out there for people to see. If you want to learn more about me or just get in touch then feel free to use the contact form and I will get back to you as soon as possible.
 
 <img src="/static/img/img_9822.jpg" width="500" height="150" class="center">
+
+I﻿f you would like to get in contact with me please feel free to use my contact page!
+
+I﻿ look forward to talking to you in the future,
+
+N﻿ickolas Martins
