@@ -22,7 +22,7 @@ I wanted to create this website (with help from a template of course) so I could
 
 <img src="/static/img/img_9822.jpg" width="500" height="150" class="center">
 
-I﻿f you would like to get in contact with me please feel free to use my contact page!
+I﻿f you would like to get in contact with me please feel free to use my [contact page](https://www.nickmartins.com/contact/)
 
 I﻿ look forward to talking to you in the future,
 
