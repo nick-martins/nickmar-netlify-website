@@ -17,7 +17,7 @@ eleventyNavigation:
 >
 > * Learned and applied Bell's IT operations
 > * Install cables directly to customer’s homes and program routers to the backbone network
-> * Apply curtesy while driving company vehicles and inside customer homes
+> * Apply courtesy while driving company vehicles and inside customer homes
 >
 > #### Toyota Motor Manufacturing Canada
 >
