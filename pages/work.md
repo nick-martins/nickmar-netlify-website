@@ -1,15 +1,23 @@
 ---
 title: Experience
 subtitle: Here is my past work experiences. I enjoying doing personal projects
-  as well, so check out the projects tab to see more.
+  as well, so check out the projects tab to see personal projects.
 metaDescription: Resume Page
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
   order: 3
-  key: Work
+  key: Experience
 ---
 > ### 👩‍💻Work Experience:
+>
+> #### Bell Technical Solutions
+>
+> **Student Technician** *(May 2022)*
+>
+> * Learned and applied Bell's IT operations
+> * Install cables directly to customer’s homes and program routers to the backbone network
+> * Apply curtesy while driving company vehicles and inside customer homes
 >
 > #### Toyota Motor Manufacturing Canada
 >
