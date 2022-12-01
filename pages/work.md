@@ -9,6 +9,14 @@ eleventyNavigation:
   order: 3
   key: Experience
 ---
+### T﻿o get more in-depth with my experience check out my [LinkedIn.](https://www.linkedin.com/in/nickmartins/)
+
+
+
+
+
+
+
 > ### 👩‍💻Work Experience:
 >
 > #### Bell Technical Solutions
