@@ -12,9 +12,7 @@ tags:
   - aws
   - server
 ---
-
-
-I﻿n this project I created a search engine on an AWS Linux server by cloning the SearXNG github, and running it through docker to allow users to search privately through 70 different search engines! Firstly, I needed to get a AWS virtual machine to act as my web server.
+I﻿n this project I created a search engine on an AWS Linux server by cloning the SearXNG github repo, and running it through docker to allow users to search privately through 70 different search engines! Firstly, I needed to get a AWS virtual machine to act as my web server.
 
 ![VM Instance](/static/img/virtual-machine-.png "AWS Virtual Machine Instance")
 
@@ -53,7 +51,5 @@ N﻿ow, the moment I was waiting for was running SearXNG on my server. I achieve
 ![](/static/img/final-product.png)
 
 I﻿ learned a lot from this project. Hope you enjoyed reading my experiences with setting this up. 
-
-
 
 T﻿hanks for reading!
