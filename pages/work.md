@@ -6,7 +6,7 @@ metaDescription: Resume Page
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
-  order: 3
+  order: 2
   key: Experience
 ---
 ### T﻿o get more in-depth with my experience check out my [LinkedIn.](https://www.linkedin.com/in/nickmartins/)
