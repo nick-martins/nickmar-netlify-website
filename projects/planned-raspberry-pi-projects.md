@@ -1,5 +1,5 @@
 ---
-title: (Planned) Raspberry Pi Projects
+title: Raspberry Pi Projects
 emoji: 📋
 date: 2022-03-29T02:06:45.570Z
 author: Nick Martins
